@@ -1,0 +1,154 @@
+## ETIQUETAS MAS INPORTANTES HTML
+
+-Layaug:
+
+1-HEDEAR
+2-NAV
+3-SECTION
+4-ARTICLE
+5-ASIDE
+6-FOOTER
+
+*enlaces:
+1-a
+
+-Texto:
+
+1-H1....H5
+2-P
+3-SPAN
+4-IMAGEN Y VIDEO
+5-IMAGEN
+6-SVG
+7-IFRAME
+8-VIDEO
+
+-Formularios:
+
+1-FORM
+2-INPUT
+3-LABEL
+4-BUTTON
+
+-lista:
+
+1-UL
+2-LI
+3-OL
+
+Esta es sitio web de referencia para la clase: -> https://htmlreference.io <-
+
+
+## SELECTORES BASICOS (css)
+
+1-de tipo                 |  div {...}
+2-de clase                |  .elemeto {...} 
+3-de ID                   |  #id-del-elemento 
+3-de atributo             |  a[ href=".."] {..}
+4-universal               |  *{..}
+  
+// linck -> https://htmlcolorcodes.com
+
+
+## PSEUDOCLASES    
+
+:active
+:focus
+:hover
+:nth-child(n)
+
+link https://developers.mozilla.org/en-US/docs/Web/CCS/Pseudo-elements
+
+## PSEUDOELEMENTO
+
+:: after
+:: before
+:: first-letter
+:: placeholder
+
+link https://ccs-tricks.com/pseudo-clases-selectors
+
+## cascada y especificidad
+
+-C --> CASCADING
+-S --> STYLE
+-S --> SHEET
+
+
+CASCADA:
+
+-significa que el orden de las reglas en CSS IMPORTA.
+
+
+link https://specificity.keegan.st
+
+
+## DISPLAY
+
+Es el tipo de visualizacion que tienen los elementos
+-BLOCK
+-Inline
+-inlime BLOCK
+-flex
+-grid
+
+## POSICIONAMINETO EN (css)
+
+-nos ayuda a ubicar elementos
+
+TYPOS:
+-relative
+-absolute
+-sticky
+-static
+-initial
+-inherital
+
+
+## PROPIEDADES Y VALORES DE CSS MAS UTILIZADOS 
+
+1-LAYOUT:
+
+-Display
+
+2-TEXTO:
+
+-font-size
+-font-weight
+-font-family
+-text-aling
+-color
+
+2-MODELOS DE CAJAS:
+
+-margin
+-padding
+-border
+
+3-TAMANO:
+
+-width
+-heigth
+
+4-COLORES:
+
+-background
+-background-color
+
+lick https://cssreference.io
+
+## ARQUITECTURA EN CSS
+
+1-OBJETIVOS
+
+-ser predecible
+-reutilisable
+-mantenible
+-escalable
+
+2-BUENAS PRACTICAS
+
+-lineamiento
+-documentacion
+-estandares
+-componentes
